@@ -5,8 +5,8 @@ I am a 3rd-year Computer Science student (B.Sc. expected 2027) and a certified I
 Currently open for a Software Engineering Internship.
 
 ## Tech Stack
-* **Languages:** C++, SQL, HTML/CSS, JS, Basics of: Python, Java, Kotlin, Swift, C#
-* **Libraries & Tools:** OpenGL, SFML, CMake, Git
+* **Languages:** C++, SQL, JS, Basics of: Python, Java, Kotlin, Swift, C#
+* **Libraries & Tools:** OpenGL, SFML, CMake, Git, HTML/CSS
 * **Core Skills:** Object-Oriented Programming (OOP), 3D Rendering Pipeline
 
 ## Featured Projects
