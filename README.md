@@ -1,16 +1,31 @@
-## Hi there 👋
+# Kamil Karwacki
 
-<!--
-**Kamil-Karwacki/Kamil-Karwacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year Computer Science student (B.Sc. expected 2027) and a certified IT Technician. My primary focus is on C++, 3D rendering using OpenGL, and game logic development. 
 
-Here are some ideas to get you started:
+Currently open for a Software Engineering Internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+* **Languages:** C++, SQL, HTML/CSS, JS, Basics of: Python, Java, Kotlin, Swift, C#
+* **Libraries & Tools:** OpenGL, SFML, CMake, Git
+* **Core Skills:** Object-Oriented Programming (OOP), 3D Rendering Pipeline
+
+## Featured Projects
+
+ **[HeadSoccer3D](https://github.com/Kamil-Karwacki/HeadSoccer3D)**
+* **Tech:** C++, OpenGL, CMake
+* Custom 3D game development focusing on the rendering pipeline, vector mathematics, and spatial collision detection.
+
+ **[Orbital-Simulation](https://github.com/Kamil-Karwacki/Orbital-Simulation)**
+* **Tech:** C++, OpenGL, CMake
+* An interactive simulation of orbital mechanics.
+
+ **[sfml-archer-duel](https://github.com/Kamil-Karwacki/sfml-archer-duel)**
+* **Tech:** C++, SFML, CMAKE
+* A 2D arcade game built from scratch.
+
+ **[Gaussian-Noise-CPP](https://github.com/Kamil-Karwacki/Gaussian-Noise-MASM-CPP)**
+* **Tech:** C++, Assembly (MASM)
+* A data generation tool built with a strict focus on computational efficiency, algorithm optimization, and execution speed.
+
+##  Contact
+* **Email:** karwacki.kamil@outlook.com
