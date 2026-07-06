@@ -2,8 +2,6 @@
 
 I am a 3rd-year Computer Science student (B.Sc. expected 2027) and a certified IT Technician. My primary focus is on C++, 3D rendering using OpenGL, and game logic development. 
 
-Currently open for a Software Engineering Internship.
-
 ## Tech Stack
 * **Languages:** C++, SQL, JS
 * **Libraries & Tools:** OpenGL, SFML, CMake, Git, HTML/CSS
